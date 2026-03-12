@@ -8,7 +8,8 @@
 石積みの壁を生成する。
 
 
-[![](https://img.youtube.com/vi/5h7Yb8NArjA%5D/0.jpg)](https://www.youtube.com/watch?v=5h7Yb8NArjA%5D)
+[![](https://img.youtube.com/vi/5h7Yb8NArjA/0.jpg)](https://www.youtube.com/watch?v=5h7Yb8NArjA)
+
 これの右の方の石壁。
 
 ## FLUSH_GEN
