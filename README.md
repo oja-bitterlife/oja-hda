@@ -15,7 +15,7 @@
 ## FLUSH_GEN
 COPsでウニフラを作るやつ。
 
-[![](https://img.youtube.com/vi/17UIN8xsqDc/0.jpg)](https://www.youtube.com/watch?v=17UIN8xsqDc)<
+[![](https://img.youtube.com/vi/17UIN8xsqDc/0.jpg)](https://www.youtube.com/watch?v=17UIN8xsqDc)
 
 これの太陽のところのフラッシュ。
 
@@ -24,6 +24,8 @@ COPsでウニフラを作るやつ。
 Distant(Directional)Lightのベクトルを出す。
 
 /objでDistantLightを作ってRotationのパラメータを設定しておき、マテリアル内のこのHDAのDirLightRotににリファレンスコピーして使う。
+
+[![](assets/2026-03-22-00-11-36.png)](assets/2026-03-22-00-11-36.png)
 
 
 ## JITTER_CURVE
