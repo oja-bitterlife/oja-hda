@@ -19,6 +19,13 @@ COPsでウニフラを作るやつ。
 
 これの太陽のところのフラッシュ。
 
+## DIR_LIGHT_VEC
+
+Distant(Directional)Lightのベクトルを出す。
+
+/objでDistantLightを作ってRotationのパラメータを設定しておき、マテリアル内のこのHDAのDirLightRotににリファレンスコピーして使う。
+
+
 ## JITTER_CURVE
 なんで作ったのか忘れた……
 
