@@ -50,4 +50,3 @@ p@fixed_pos/p@force(wはウェイト)ポイントアトリビュートで当た�
 
 <img src="assets/pbdanimehair.png" width="480px">
 
-<video src="assets/pbdanimehair_1.mp4">
