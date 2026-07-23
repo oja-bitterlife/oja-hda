@@ -39,3 +39,13 @@ MatXでオレオレスペキュラ計算
 
 ## LEAF_CREATOR
 球形の中にボリュームで葉っぱっぽいものを生成する
+
+
+## PBDAnimeHair
+髪の毛用のCurveをPBDベースで動かす。
+
+f@curveuとf@pinの設定が事前に必要で、入力されたRESTポーズをGravityとして適用するので揺れながらRESTポーズに収束していく。
+
+p@fixed_pos/p@force(wはウェイト)ポイントアトリビュートで当たり判定後座標や追加Forceを設定できる。
+<video src="assets/pbdanimehair_1.mp4"></video>
+![](assets/pbdanimehair.png)
