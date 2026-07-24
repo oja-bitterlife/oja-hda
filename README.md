@@ -4,9 +4,11 @@
 ## CreateBookLine
 棚にランダムに本を並べる。
 
+<img src="assets/bookline.png" width="480px">
+
+
 ## WALL_GENERATOR
 石積みの壁を生成する。
-
 
 [![](https://img.youtube.com/vi/5h7Yb8NArjA/0.jpg)](https://www.youtube.com/watch?v=5h7Yb8NArjA)
 
