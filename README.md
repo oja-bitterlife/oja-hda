@@ -37,6 +37,8 @@ Distant(Directional)Lightのベクトルを出す。
 ## SpecularForMatX
 MatXでオレオレスペキュラ計算
 
+<img src="assets/specular.png" width="480px">
+
 ## LEAF_CREATOR
 球形の中にボリュームで葉っぱっぽいものを生成する
 
