@@ -40,6 +40,8 @@ MatXでオレオレスペキュラ計算
 ## LEAF_CREATOR
 球形の中にボリュームで葉っぱっぽいものを生成する
 
+主に中遠景用
+![](assets/leaf_creator.PNG)
 
 ## PBDAnimeHair
 髪の毛用のCurveをPBDベースで動かす。
