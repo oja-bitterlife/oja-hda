@@ -12,14 +12,10 @@
 
 [![](https://img.youtube.com/vi/5h7Yb8NArjA/0.jpg)](https://www.youtube.com/watch?v=5h7Yb8NArjA)
 
-これの右の方の石壁。
-
 ## FLUSH_GEN
 COPsでウニフラを作るやつ。
 
 [![](https://img.youtube.com/vi/17UIN8xsqDc/0.jpg)](https://www.youtube.com/watch?v=17UIN8xsqDc)
-
-これの太陽のところのフラッシュ。
 
 ## DIR_LIGHT_VEC
 
