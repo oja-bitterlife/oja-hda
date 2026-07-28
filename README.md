@@ -55,3 +55,12 @@ p@fixed_pos/p@force(wはウェイト)ポイントアトリビュートで当た�
 
 <img src="assets/pbdanimehair.png" width="480px">
 
+
+## HairScatter
+
+髪の毛をSweepする代わりにSweep形状の範囲でScatterする。
+
+ガイドの入力CurveごとにPrimtiveのAttributeにi@sweep_indexを付けておくことで、Scatterで使う形状を選択できる。
+
+<img src="assets/hair_scatter.png" width="480px">
+
