@@ -62,3 +62,11 @@ p@fixed_pos/p@force(wはウェイト)ポイントアトリビュートで当た�
 
 <img src="assets/hair_scatter.png" width="480px">
 
+## USD Xform Vectors
+
+Blenderで出力したUSDはPointにxformという変換行列が入っている。
+
+USDの各AttributeにはVectorの値がローカル座標で入っているが、このxformを合成するとワールド座標になる。
+
+このワールド座標系への変換を指定したAttributeに対して行うHDA。
+
